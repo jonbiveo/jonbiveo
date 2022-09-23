@@ -1,40 +1,25 @@
-<div style=" text-align: center; font-size: 24px">
+<div align="center">
 
 # Logan Edmonds
+```Digital Craftsman | Developer | Carpenter | Knowledge Seeker```
 </div>
-<div style="display: flex;">
-  <div style="align-self: center; margin-left: auto;">
-  
-  `Digital Craftsman | Developer | Carpenter | Knowledge Seeker`
+  <img alt="Coding GIF" align="right" src="coding-computer.gif" width="300"/>
 
-  </div>
-  <img alt="Coding GIF" src="coding-computer.gif" style="display: block; 
-           margin-left: 100px;
-           margin-right: auto;
-           width: 20%;"/>
-</div>
-
----
-<div>
-
-## About Me: 
+### About Me: 
 I am a Full Stack Developer from Texas.
 
   * 📰 I'm currently working on a News Scraper
   * 🌱 I'm currently learning Python and Scrapy for Web Scraping!
-  * I'm collaborating on a cryptocurrency portfolio tracker with [Tuxman](https://github.com/Tuxman)
-  * In my free time I'm researching new technologies and brushing up on my LeetCode
-</div>
-
+  * 📈 I'm collaborating on a cryptocurrency portfolio tracker with [Tuxman](https://github.com/Tuxman)
+  * 📚 In my free time I'm researching new technologies and brushing up on my LeetCode
+  
 ---
-<br />
-<div style="text-align: center;">
+<div align="center">
 
 ### 🧰 Languages and Tools
 </div>
-<br />
 
-<div style="text-align: center;">
+<div align="center">
   <img class="icons" alt="Spring" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
   <img class="icons" alt="TypeScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
   <img class="icons" alt="PostgreSQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" />
@@ -55,16 +40,3 @@ I am a Full Stack Developer from Texas.
   <img class="icons" alt="Docker" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
   <img class="icons" alt="Raspberry Pi" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" />
 </div>
-<img alt="Coding GIF" src="coding-computer2.gif" style="display: block; 
-           margin-left: auto;
-           margin-right: auto;
-           width: 40%;"/>
-
-<style>
-
-.icons {
-  padding-right: 10px;
-
-}
-
-</style>
